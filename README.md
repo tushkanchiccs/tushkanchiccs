@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tushkanchiccs
-- 👀 I’m interested in codingon python
+- 👀 I’m interested in coding on python
 - 🌱 I’m currently learning more python and c#
 - 💞️ I’m looking to collaborate on none yet
 - 📫 How to reach me( hz)
