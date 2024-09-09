@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @tushkanchiccs
-- 👀 I’m interested in coding on python
-- 🌱 I’m currently learning more python and c#
-- 📫 How to reach me( hz)
-- 😄 Pronouns: tushkanchicc
-- ⚡ Fun fact: i play apex legends and i want my nickname tushkanchicc
+I love play apex and i love Wattson
 
 <!---
 tushkanchiccs/tushkanchiccs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
