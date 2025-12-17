@@ -108,7 +108,7 @@
     <tr>
       <!-- Левый столбец -->
       <td align="center">
-        <a href="https://t.me/ваш_nick"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+        <a href="https://t.me/tushkanchicc"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
       </td>
       <td align="center">
         <a href="https://steamcommunity.com/id/tushkanchicc/"><img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
@@ -117,7 +117,7 @@
     <tr>
       <!-- Правый столбец -->
       <td align="center">
-        <a href="https://x.com/ваш_ник"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+        <a href="https://x.com/tushkanchicc"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> tushkanchicc
