@@ -31,35 +31,6 @@
 
 ## 🛠️ Мой технологический стек и инструменты
 
-  
-
-<p align="center">
-
-  <!-- Python -->
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-  </a>
-
-  <!-- Git -->
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-  </a>
-
-  <!-- PostgreSQL -->
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-
-  </a>
-
-</p>
 
   
 
@@ -70,6 +41,8 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
   <img src="https://img.shields.io/badge/-Django-2496ED?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
+
+  <img src="https://img.shields.io/badge/-Postgresql-2496ED?style=for-the-badge&logo=&logoColor=white" alt="Postgresql">
 
 </p>
 
