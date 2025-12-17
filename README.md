@@ -106,22 +106,7 @@
 
 *   *Репозиторий закрыт, так как проект находится в активной стадии разработки.*
 
-  
-
-### [ApexLegendsRPC](https://github.com/tushkanchiccs/ApexLegendsRPC)
-
-*   **RPC (Rich Presence)** для Discord, отображающий вашу активность в Apex Legends.
-
-  
-
-### [devops](https://github.com/tushkanchiccs/devops)
-
-*   Репозиторий с материалами, конфигурациями или скриптами, связанными с **DevOps**.
-
-*   Учебный репозиторий
-
-  
-  
+   
 
 ---
 
@@ -139,9 +124,7 @@
 
   </a>
 
-  <a href="mailto:vladislav-akimov2000@yandex.ru" target="_blank">
-
-    <img src="https://img.shields.io/badge/-Yandex%20Mail-FFCC00?style=for-the-badge&logo=yandex&logoColor=white&color=FC3F1D" alt="Yandex Mail"/>
+ 
 
 </a>
 
